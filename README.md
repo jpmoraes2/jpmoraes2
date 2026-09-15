@@ -1,4 +1,4 @@
-# Hi 👋, I'm João Pedro
+# Hello 👋, I'm João Pedro
 
 🚀 **Developer | JavaScript & Python & C**  
 🇧🇷 Rio de Janeiro, Brazil
@@ -65,21 +65,9 @@ while transitioning into the field through a technical support role.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jpmoraes2&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpmoraes2&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🚀 Philosophy
 
 > _"Every great system starts with a single curious mind.  
 > Code is how I turn that curiosity into something real."_
 
 ---
-
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
