@@ -22,6 +22,7 @@ while transitioning into the field through a technical support role.
   <a href="https://instagram.com/jpmoraees">
     <img src="https://img.shields.io/badge/Instagram-@jpmoraees-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+   <br/>
   <a href="https://www.youtube.com/@jpmoraes2333">
     <img src="https://img.shields.io/badge/YouTube-Dev%20em%20Desenvolvimento-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@jpmoraes2333)" />
   </a>
